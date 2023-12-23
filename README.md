@@ -6,6 +6,8 @@ Project để áp dụng những kiến thức đã học từ `The Odin Project
 - CSS
 - Flexbox
 
+Sản phẩm: [live page](https://caominhtu.github.io/odin-landing-page/)
+
 Nguồn ảnh:
 - [Logo thành phố Hồ Chí Minh](https://hochiminhcity.gov.vn/)
 - [Banner](https://www.visithcmc.vn/event/tuan-le-du-lich-thanh-pho-ho-chi-minh-2023)
