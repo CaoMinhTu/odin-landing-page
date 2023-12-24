@@ -159,14 +159,14 @@ li a {
 
 .action {
     margin: 100px 200px;
-    padding: 20px 0;
+    padding: 20px 100px;
     background-color: #3882F6;
     border-radius: 8px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
+    flex-wrap: wrap;
     color: #F9FAF8;
-
 }
 
 .action a.button {
